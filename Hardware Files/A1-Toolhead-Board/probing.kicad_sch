@@ -772,6 +772,16 @@
 		)
 		(uuid "977b4e67-6526-4583-abfa-6d4b090add4f")
 	)
+	(text "do i need any resistors or stuff for i2c\n"
+		(exclude_from_sim no)
+		(at 154.686 103.632 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "db4b5ef9-6216-43ff-934e-e1e8c2e90a05")
+	)
 	(text "Confirm, do I need resistors?"
 		(exclude_from_sim no)
 		(at 173.482 90.424 0)

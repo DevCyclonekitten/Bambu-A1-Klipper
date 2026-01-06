@@ -1655,6 +1655,26 @@
 		)
 		(uuid 57a965ae-df1d-4979-8c01-3993d34371d9)
 	)
+	(text "get 5a plug, justin case\n"
+		(exclude_from_sim no)
+		(at 111.506 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1d01de45-a212-480f-bc9a-2c76335a5d9e")
+	)
+	(text "look into TI one = pera"
+		(exclude_from_sim no)
+		(at 152.908 45.466 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1e140da6-52e4-4b46-b7f4-457d8c1c93e1")
+	)
 	(text "VBUS -> 3V3"
 		(exclude_from_sim no)
 		(at 157.48 49.784 0)
@@ -1666,6 +1686,16 @@
 			)
 		)
 		(uuid "37c98c78-1909-4c36-b701-d9c951371191")
+	)
+	(text "add usb+- esd protection"
+		(exclude_from_sim no)
+		(at 106.934 84.582 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "49deb60f-8570-41c4-a9d9-e7fef3b14dae")
 	)
 	(text "4.6-5v"
 		(exclude_from_sim no)

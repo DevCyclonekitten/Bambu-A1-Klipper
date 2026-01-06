@@ -1886,6 +1886,16 @@
 		)
 		(uuid "eb994df0-2bff-412a-8048-ede6ce3d9c2e")
 	)
+	(text "look at datasheet bc i forgor what these resistors do"
+		(exclude_from_sim no)
+		(at 127.762 101.346 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f06513d0-ff56-4f2e-ae2a-40cba1e75477")
+	)
 	(junction
 		(at 95.25 29.21)
 		(diameter 0)

@@ -2194,6 +2194,16 @@
 		)
 		(uuid "523a470a-5a7d-4d8d-bb98-f1ccd664e26a")
 	)
+	(text "try and get sgdbm for v2, or atleast consign part next order, or get sims_60 to do it."
+		(exclude_from_sim no)
+		(at 141.986 140.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5a4f9604-ed53-4cf8-aac5-68d41a8c8cf2")
+	)
 	(text "PPAK-8L"
 		(exclude_from_sim no)
 		(at 190.754 118.618 0)
@@ -2204,6 +2214,16 @@
 		)
 		(uuid "6f8b9602-f42b-4013-a52f-d70405ad2474")
 	)
+	(text "do i split to 2x 1x02, but too high chance of messing up unless jstph"
+		(exclude_from_sim no)
+		(at 148.59 59.436 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9c447e5d-9a54-4e35-bc37-555c21cf7917")
+	)
 	(text "Too high resistor? 10k?"
 		(exclude_from_sim no)
 		(at 161.544 134.112 0)
@@ -2213,6 +2233,16 @@
 			)
 		)
 		(uuid "c05dcf59-566b-43ff-927a-9363d3e7faf5")
+	)
+	(text "just copied schematic from skr pico lol\n"
+		(exclude_from_sim no)
+		(at 108.204 119.634 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d3800ff1-85d8-451a-8dae-c6fd18cc8be2")
 	)
 	(junction
 		(at 142.24 101.6)

@@ -3682,7 +3682,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "A1KLibrary:A Stupid Button"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 81.28 82.55 0)
 			(effects
 				(font

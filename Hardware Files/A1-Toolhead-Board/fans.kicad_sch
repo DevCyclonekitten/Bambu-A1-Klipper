@@ -1547,6 +1547,16 @@
 		)
 		(uuid "089dda73-a67d-40ac-9dd3-6389b34c542a")
 	)
+	(text "some caps seems unneccesary, do i remove for simplicity"
+		(exclude_from_sim no)
+		(at 147.574 39.878 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "58ecd195-6551-4bb4-9d9d-7cb53739835c")
+	)
 	(text "C64898"
 		(exclude_from_sim no)
 		(at 160.02 113.538 0)
