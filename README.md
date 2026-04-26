@@ -2,3 +2,6 @@
  A repository about the development of modifying a bambu labs a1 printer to run on klipper
 
 Site viewable at: https://devcyclonekitten.github.io/Bambu-A1-Klipper/
+
+Uhh this hasn't been updated, but so far I did get the printer working, then killed mainboard
+I have all components working, except screen and eddy current sensor, am just finalizing pcb's then trying to rebuild.
