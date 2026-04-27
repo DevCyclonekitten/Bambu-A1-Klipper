@@ -1,0 +1,1 @@
+sudo pacman -Syu --asdeps kicad-library kicad-library-3d

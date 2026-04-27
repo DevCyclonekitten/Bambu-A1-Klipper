@@ -645,7 +645,7 @@
         "uuid": "9d813fc3-a6a1-4e23-ab17-d125b692e1a2"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J15,H1-6",
     "variants": []
   },
   "sheets": [
@@ -688,10 +688,6 @@
     [
       "030d87f2-0e08-4275-9f97-d8a2f0a7175d",
       "fan"
-    ],
-    [
-      "78e78727-52ef-474a-ab5f-940b5f69bf95",
-      "power"
     ],
     [
       "809d33b9-a1f2-41ca-8dfb-ddc98a76b6d5",

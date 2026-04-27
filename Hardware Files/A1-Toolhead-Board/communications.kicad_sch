@@ -3496,17 +3496,6 @@
 		)
 		(uuid "fe77b4f1-6f4c-41cc-8420-be229c2b3f79")
 	)
-	(hierarchical_label "USB_D+"
-		(shape input)
-		(at 163.83 96.52 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "09aa6f29-2493-47cc-85fc-390295795dae")
-	)
 	(hierarchical_label "USB_PORT_D-"
 		(shape input)
 		(at 97.79 76.2 0)
@@ -3520,14 +3509,14 @@
 	)
 	(hierarchical_label "USB_PORT_D-"
 		(shape input)
-		(at 161.29 86.36 90)
+		(at 163.83 86.36 90)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "46ed52a9-f688-4c91-9d22-892e3bf5b1d2")
+		(uuid "5b3b05af-4aac-42cd-8eed-0a861b27d5ad")
 	)
 	(hierarchical_label "USB_PORT_D+"
 		(shape input)
@@ -3542,16 +3531,16 @@
 	)
 	(hierarchical_label "USB_PORT_D+"
 		(shape input)
-		(at 163.83 86.36 90)
+		(at 161.29 86.36 90)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "ac5787ca-7af7-41f0-8238-00bc5550734d")
+		(uuid "6d7710c2-dce4-44f8-b85d-798e11c9cd5f")
 	)
-	(hierarchical_label "USB_D-"
+	(hierarchical_label "USB_D+"
 		(shape input)
 		(at 161.29 96.52 270)
 		(effects
@@ -3560,7 +3549,18 @@
 			)
 			(justify right)
 		)
-		(uuid "cb880b2f-143d-4838-899e-de9dbe7dc178")
+		(uuid "d73a39fc-21bc-4888-ac2c-40b3ad904f36")
+	)
+	(hierarchical_label "USB_D-"
+		(shape input)
+		(at 163.83 96.52 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dddffd9c-b5d9-4cd2-b35e-61ec8500bba5")
 	)
 	(symbol
 		(lib_id "Device:C")
