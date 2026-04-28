@@ -1,0 +1,2 @@
+sudo /home/cyclone/.pico-sdk/picotool/2.2.0-a4/picotool/picotool load /home/cyclone/Desktop/VSV-Documents/Production/Coding/C++/Daughter-Board/build/Daughter-Board.elf -fx 
+minicom -D /dev/ttyACM0 -b 115200

@@ -1,0 +1,14 @@
+.program midi_uart
+;   .side_set 0
+
+; MIDI UART RX: 8 data bits, 1 stop bit, no parity
+; Runs at 31250 baud (must set clock divider accordingly)
+
+start:
+    wait 0 pin 0        ; Wait for start bit (low)
+    set x, 7 [10]       ; Pre-fill counter, delay to center of first data bit
+bit_loop:
+    in pins, 1          ; Shift 1 bit in
+    jmp x-- bit_loop [14] ; Loop 8 times, delaying to stay in bit centers
+    wait 1 pin 0        ; Wait for stop bit (high)
+    push                ; Push 8-bit byte to RX FIFO
